@@ -3,7 +3,7 @@
       {
         "s3": {
           "bucket": { "name": "test-bucket" },
-          "object": { "key": "original/IMG_20230826_160524.jpg" }
+          "object": { "key": "original/IMG_20221205_161942.jpg" }
         }
       }
     ]
