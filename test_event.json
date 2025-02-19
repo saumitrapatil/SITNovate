@@ -1,11 +1,14 @@
 {
-    "Records": [
-      {
-        "s3": {
-          "bucket": { "name": "test-bucket" },
-          "object": { "key": "original/IMG_20221205_161942.jpg" }
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "test-bucket"
+        },
+        "object": {
+          "key": "original/sample.jpg"
         }
       }
-    ]
-  }
-  
+    }
+  ]
+}
