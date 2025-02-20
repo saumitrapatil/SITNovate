@@ -1,3 +1,3 @@
 # Image Resizer
 
-Lambda + API Gateway
+S3 + Lambda
